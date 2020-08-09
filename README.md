@@ -1,2 +1,2 @@
 # hello-world
-repositório inicial da Michelly
+repositório inicial da Michelly-Dev
