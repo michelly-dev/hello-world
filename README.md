@@ -1,2 +1,2 @@
 # hello-world
-repositório inicial da Michelly-Desenvolvedora
+repositório inicial da Michelly e jefferson
